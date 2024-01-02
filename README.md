@@ -1,4 +1,4 @@
-# CALCULATOR-in-Js
+# CALCULATORS
 This repo consist of two js simple calculator apps :
 
  !! This is a beginners Level web app for practice. 
